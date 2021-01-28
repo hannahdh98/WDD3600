@@ -1,5 +1,5 @@
 
-//import path
+//import path, express, and the body parser
 const path = require('path');
 const express = require('express');
 const bodyParser = require('body-parser');
